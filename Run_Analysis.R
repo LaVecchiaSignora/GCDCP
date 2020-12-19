@@ -1,4 +1,6 @@
 library(data.table)
+
+
 library(dplyr)
 ##download the data
 dataUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
