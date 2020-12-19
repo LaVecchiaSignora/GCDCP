@@ -1,0 +1,26 @@
+---
+title: "Codebook.md"
+author: "LaVecchiaSignora"
+date: "12/19/2020"
+output: html_document
+---
+
+After downloading and unzipping the file, dataframes are created, by read.table function -
+features
+activities 
+subject_test  
+x_test 
+y_test  
+subject_train 
+x_train
+y_train
+
+X is combination of x_test and x_train
+Y is combination of y_test and y_train
+Subject is combination of subject_train and  subject_test
+Merged is a dataset which training and test sets and their subjects are merged.
+
+
+tidydata measurements on the mean and standard deviation for each measurement
+
+tidydata$code  Uses descriptive activity names to name the activities in the data set
