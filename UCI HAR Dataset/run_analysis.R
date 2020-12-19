@@ -55,7 +55,6 @@ write.table(altdata, file = "tidydata.txt",row.name=FALSE)
 
 str(altdata)
 
-
 library(codebook)
 
 new_codebook_rmd()
