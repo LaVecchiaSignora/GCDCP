@@ -4,7 +4,7 @@ library(data.table)
 library(dplyr)
 ##download the data
 dataUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-download.file(dataUrl,destfile="./dataset.zip",method="curl")
+download.file(dataUrl,destfile="./dataset.zip")
 
 unzip("dataset.zip")
 
