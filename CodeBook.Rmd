@@ -21,6 +21,6 @@ Subject is combination of subject_train and  subject_test
 Merged is a dataset which training and test sets and their subjects are merged.
 
 
-tidydata measurements on the mean and standard deviation for each measurement
+tidydata - measurements on the mean and standard deviation for each measurement
 
-tidydata$code  Uses descriptive activity names to name the activities in the data set
+tidydata$code - Uses descriptive activity names to name the activities in the data set
